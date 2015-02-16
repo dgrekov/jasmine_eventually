@@ -1,7 +1,5 @@
 # Jasmine Eventually
 
-* [github.com/tf/jasmine_eventually](http://github.com/tf/jasmine_eventually)
-
 Asynchronous matching without `runs` and `waitsFor`.
 
 ### Usage

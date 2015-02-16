@@ -1,0 +1,28 @@
+{
+  "name": "jasmine_eventually",
+  "version": "1.0.0",
+  "description": "Asynchronous matching for Jasmine Test Framework",
+  "main": "src/jasmine_eventually.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test/runner.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dgrekov/jasmine_eventually.git"
+  },
+  "keywords": [
+    "jasmine",
+    "eventually",
+    "promise",
+    "async"
+  ],
+  "author": "Dmitry Grekov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgrekov/jasmine_eventually/issues"
+  },
+  "homepage": "https://github.com/dgrekov/jasmine_eventually"
+}
